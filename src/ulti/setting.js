@@ -1,0 +1,1 @@
+export const URL_TODOLIST = 'https://svcy.myclass.vn' ; 
