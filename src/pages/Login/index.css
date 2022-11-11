@@ -1,6 +1,6 @@
 .user-login {
     background-image: url('./img/bg-login-jira.jpg');
-    height: 800px;
+    height:750px;
     position: relative;
     z-index: 1;
     display: flex;
